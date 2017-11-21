@@ -4,7 +4,7 @@
 int main(){
 int i=100;
 for(i=0;i<100;i++)
-puts("kave É GAY e vou pegar a irma dele");
+puts("E EU A CAMILINHA");
 
 return 0;
 }
