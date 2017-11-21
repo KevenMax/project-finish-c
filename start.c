@@ -2,18 +2,9 @@
 #include <stdlib.h>
 
 int main(){
-
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
-puts("FERNANDO É GAY");
+int i=100;
+for(i=0;i<100;i++)
+puts("kave É GAY e vou pegar a irma dele");
 
 return 0;
 }
