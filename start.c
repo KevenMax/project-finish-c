@@ -3,7 +3,17 @@
 
 int main(){
 
-puts("Keven e viado!");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
+puts("FERNANDO É GAY");
 
 return 0;
 }
