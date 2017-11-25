@@ -36,7 +36,7 @@ int main(){
     setlocale(LC_ALL, "Portuguese");
 
     painel();
-    start();
+    rodada();
 
 
 
@@ -322,7 +322,7 @@ pontuacao_rodada = v[7];
 
 
 
-void start(){
+void rodada(){
     carregar_arquivo();
     sorteio_pontuacao();
 
